@@ -1,5 +1,5 @@
 <!-- HERO SECTION -->
-<h1 align="center">👋 Hi, I'm Emmanuel Uko (Flux)</h1>
+<h1 align="center">👋 Hi, I'm Emmanuel Uko</h1>
 <h3 align="center">💻 Aspiring Web Developer • ⚡ JavaScript Enthusiast • 🚀 Lifelong Learner</h3>
 
 <p align="center">
