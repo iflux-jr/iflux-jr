@@ -1,15 +1,17 @@
 <!-- HERO SECTION -->
 <h1 align="center">👋 Hi, I'm Emmanuel Uko (Flux)</h1>
-<h3 align="center">🎨 Designer • 💻 Developer • 📚 Teacher</h3>
+<h3 align="center">💻 Web Developer • 📚 Teacher • Problem Solver</h3>
 
 <p align="center">
-I design and build clean, functional digital experiences—and help others understand how they work.
+I build **clean, functional web experiences**, share what I learn, and help others grow in tech.
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Design.+Build.+Teach.;UI%2FUX+Designer;Frontend+Developer;Problem+Solver&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;JavaScript+Enthusiast;Problem+Solver;Lifelong+Learner&center=true&width=500&height=45" />
 </p>
+
+---
 
 <!-- GITHUB STATS -->
 <p align="center">
@@ -21,43 +23,32 @@ I design and build clean, functional digital experiences—and help others under
 
 ## 🧠 About Me
 
-I’m a **Graphic & Web Designer** who blends creativity with logic to solve real-world problems.  
-I combine **design thinking, frontend development, and teaching skills** to build projects that are not only functional but impactful.
+I’m a **developer and lifelong learner** passionate about creating tools, solving problems, and sharing knowledge.  
 
-- 🎯 Focused on **UI/UX + Frontend Development**  
-- 🛠️ Experienced in **design → development workflow**  
-- 👨‍🏫 Passionate about **simplifying tech for others**  
-- 💡 I believe good design should *look right* and *feel right*  
+- 🎯 Focused on **JavaScript, HTML, CSS, and web apps**  
+- 👨‍🏫 Passionate about **teaching and mentoring students**  
+- 💡 I believe code should not only work—it should **be clean, reusable, and impactful**  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack & Skills
 
-### 🎨 Design
-- Adobe Photoshop, Illustrator  
-- Branding & Visual Identity  
-- Poster & Layout Design  
-- Figma & Prototyping  
-
-### 💻 Development
-- HTML, CSS, JavaScript  
-- Responsive Web Design  
-- Git & GitHub  
-- Basic Node.js & Web APIs  
-
-### 🧩 Workflow
-- UI/UX Thinking & Design Systems  
-- Problem Solving & Creative Strategy  
-- Project Planning & Collaboration  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Expert-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Advanced-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-Intermediate-red?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Advanced-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 🚧 Current Focus
 
-- 🔥 Advanced JavaScript & DOM manipulation  
-- 🎯 Building real-world web projects  
-- 🎨 UI/UX consistency & design systems  
-- 🚀 Growing my personal portfolio  
+- 🔥 **Advanced JavaScript**: ES6+, DOM, Fetch API  
+- 🌐 **Real-world web projects**: responsive, interactive sites  
+- 🛠️ **Git & GitHub collaboration**  
+- 🚀 **Teaching & mentoring** through small projects and tutorials  
 
 ---
 
@@ -65,22 +56,22 @@ I combine **design thinking, frontend development, and teaching skills** to buil
 
 | Project | Description | Link |
 |---------|------------|------|
-| 🎨 **Logo Design Projects** | Brand identities & mascot logos | [View Repo](#) |
-| 🧾 **Minimalist Receipt System** | Timeless, functional receipts | [View Repo](#) |
-| 🌐 **Portfolio Website** | My personal portfolio landing page | [View Repo](#) |
+| 💻 **Portfolio Website** | My personal web portfolio project | [View Repo](#) |
+| 📄 **Student Learning Tool** | Mini web apps to help students learn concepts | [View Repo](#) |
+| ⚡ **Mini JavaScript Experiments** | Fun interactive JS projects | [View Repo](#) |
 
-*(Images/screenshots can be added to these sections later for visual flair)*
+*(Pro tip: add screenshots or GIFs of projects later for extra visual flair)*
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-I’m open to working on projects like:
+I’m open to contributing to:
 
-- UI/UX design & frontend development  
-- Branding + website integrations  
-- Student/community-driven tech & learning projects  
-- Fun experiments combining **design + code**
+- Frontend web projects  
+- Open-source JavaScript tools  
+- Student or community tech initiatives  
+- Interactive web experiments  
 
 ---
 
@@ -96,21 +87,23 @@ I’m open to working on projects like:
 
 ## ⚡ Fun Fact
 
-When I’m not designing or coding, you’ll probably find me deep in **FPS games**—grinding matches in **CODM, Delta Force**, and testing strategies, reflexes, and team coordination like a pro gamer 🎮🔥  
+When I’m not coding, I’m probably **playing FPS games** like **CODM, Delta Force**, and sharpening my reflexes and strategy 🎮🔥  
 
 ---
 
-## 🎨 Badges & Fun Extras
+## 🎨 Extras & Animations
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Expert-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Advanced-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-Intermediate-pink?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Code.+Build.+Learn.;Problem+Solving+Is+Fun;Teaching+Is+Passion&center=true&width=500&height=40" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-JavaScript-brightgreen?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Design it. Build it. Teach it. Repeat."</i>
+  <i>"Code it. Share it. Teach it. Repeat."</i>
 </p>
