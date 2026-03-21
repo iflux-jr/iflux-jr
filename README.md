@@ -1,14 +1,14 @@
 <!-- HERO SECTION -->
 <h1 align="center">👋 Hi, I'm Emmanuel Uko (Flux)</h1>
-<h3 align="center">💻 Web Developer • 📚 Teacher • Problem Solver</h3>
+<h3 align="center">💻 Aspiring Web Developer • ⚡ JavaScript Enthusiast • 🚀 Lifelong Learner</h3>
 
 <p align="center">
-I build **clean, functional web experiences**, share what I learn, and help others grow in tech.
+I’m a student learning to code, building web projects, and sharing my coding journey with the world.
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;JavaScript+Enthusiast;Problem+Solver;Lifelong+Learner&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+JavaScript;Building+Web+Projects;Exploring+HTML+CSS;Student+Coder&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -23,55 +23,43 @@ I build **clean, functional web experiences**, share what I learn, and help othe
 
 ## 🧠 About Me
 
-I’m a **developer and lifelong learner** passionate about creating tools, solving problems, and sharing knowledge.  
+I’m a **student learning web development** and building fun, interactive projects to improve my skills every day.  
 
-- 🎯 Focused on **JavaScript, HTML, CSS, and web apps**  
-- 👨‍🏫 Passionate about **teaching and mentoring students**  
-- 💡 I believe code should not only work—it should **be clean, reusable, and impactful**  
+- 🎯 Focused on **HTML, CSS, JavaScript**  
+- 🔨 Building small **web projects and experiments**  
+- 💡 Goal: turn learning into **real projects and code I’m proud of**  
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Expert-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Advanced-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Intermediate-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-Intermediate-red?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Advanced-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Intermediate-black?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## 🚧 Current Focus
 
-- 🔥 **Advanced JavaScript**: ES6+, DOM, Fetch API  
-- 🌐 **Real-world web projects**: responsive, interactive sites  
-- 🛠️ **Git & GitHub collaboration**  
-- 🚀 **Teaching & mentoring** through small projects and tutorials  
+- 🔥 **JavaScript ES6+**: functions, DOM, Fetch API  
+- 🌐 **Responsive Web Pages**: HTML + CSS layout projects  
+- 🛠️ **GitHub Collaboration**: version control, commits, branches  
+- 🚀 **Project-Based Learning**: mini apps, experiments, and challenges  
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Collaboration Interests
 
-| Project | Description | Link |
-|---------|------------|------|
-| 💻 **Portfolio Website** | My personal web portfolio project | [View Repo](#) |
-| 📄 **Student Learning Tool** | Mini web apps to help students learn concepts | [View Repo](#) |
-| ⚡ **Mini JavaScript Experiments** | Fun interactive JS projects | [View Repo](#) |
+I’m open to:
 
-*(Pro tip: add screenshots or GIFs of projects later for extra visual flair)*
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to contributing to:
-
-- Frontend web projects  
-- Open-source JavaScript tools  
-- Student or community tech initiatives  
-- Interactive web experiments  
+- Beginner-friendly **frontend projects**  
+- Small **interactive JavaScript apps**  
+- Open-source projects where I can learn and contribute  
+- Fun coding experiments  
 
 ---
 
@@ -87,23 +75,24 @@ I’m open to contributing to:
 
 ## ⚡ Fun Fact
 
-When I’m not coding, I’m probably **playing FPS games** like **CODM, Delta Force**, and sharpening my reflexes and strategy 🎮🔥  
+When I’m not coding, I’m deep in **FPS games** like **CODM and Delta Force**, practicing strategy, reflexes, and teamwork 🎮🔥  
 
 ---
 
-## 🎨 Extras & Animations
+## 🎨 Extra Animations & Badges
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Code.+Build.+Learn.;Problem+Solving+Is+Fun;Teaching+Is+Passion&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Code.+Build.+Learn.;Projects+Over+Theory;Fun+With+JS&center=true&width=500&height=40" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-JavaScript-brightgreen?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Intermediate-blue?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code it. Share it. Teach it. Repeat."</i>
+  <i>"Code it. Experiment it. Learn it. Repeat."</i>
 </p>
