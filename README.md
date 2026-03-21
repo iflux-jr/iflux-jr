@@ -1,98 +1,39 @@
-<!-- HERO SECTION -->
-<h1 align="center">👋 Hi, I'm Emmanuel Uko</h1>
-<h3 align="center">💻 Aspiring Web Developer • ⚡ JavaScript Enthusiast • 🚀 Lifelong Learner</h3>
+# 👋 Hi, I’m Flux  
 
-<p align="center">
-I’m a student learning to code, building web projects, and sharing my coding journey with the world.
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+JavaScript;Building+Web+Projects;Exploring+HTML+CSS;Student+Coder&center=true&width=500&height=45" />
-</p>
+**Web Development Student @ BYU–Pathway Worldwide**  
 
 ---
 
-<!-- GITHUB STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iflux-jr&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iflux-jr&layout=compact&theme=radical" />
-</p>
+## 👀 I’m passionate about
+- 💻 Crafting **clean, responsive, and accessible web experiences**  
+- 🟨 JavaScript, ES6+, HTML5, CSS3, and **modern frontend workflows**  
+- 🌐 Open-source collaboration and meaningful projects  
+- 🎨 UI/UX that feels **intuitive and polished**  
 
 ---
 
-## 🧠 About Me
-
-I’m a **student learning web development** and building fun, interactive projects to improve my skills every day.  
-
-- 🎯 Focused on **HTML, CSS, JavaScript**  
-- 🔨 Building small **web projects and experiments**  
-- 💡 Goal: turn learning into **real projects and code I’m proud of**  
+## 🚀 Currently learning
+- Advanced JavaScript concepts & **best practices**  
+- DOM manipulation, Fetch API, and **ES Modules**  
+- GitHub collaboration & **real-world responsive design**  
 
 ---
 
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Intermediate-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-Intermediate-red?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Intermediate-black?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 💡 Looking to collaborate on
+- Web tools for **students and learning communities**  
+- Mini projects that **challenge me and expand my skillset**  
+- Anything **open-source** that pushes the web forward  
 
 ---
 
-## 🚧 Current Focus
-
-- 🔥 **JavaScript ES6+**: functions, DOM, Fetch API  
-- 🌐 **Responsive Web Pages**: HTML + CSS layout projects  
-- 🛠️ **GitHub Collaboration**: version control, commits, branches  
-- 🚀 **Project-Based Learning**: mini apps, experiments, and challenges  
+## 📫 Connect with me
+- X (formerly Twitter): [@YourHandle](https://twitter.com/YourHandle)  
+- LinkedIn: [Your Name](https://www.linkedin.com/in/your-link)  
+- Email: your.email@example.com  
 
 ---
 
-## 🤝 Collaboration Interests
+## 🎮 Fun fact
+I unwind with FPS games like **Call of Duty: Mobile, Delta Force**, and **eFootball**—because even developers need a respawn.  
 
-I’m open to:
-
-- Beginner-friendly **frontend projects**  
-- Small **interactive JavaScript apps**  
-- Open-source projects where I can learn and contribute  
-- Fun coding experiments  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:ojongjr@outlook.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/uko-emmanuel">💼 LinkedIn</a> • 
-  <a href="https://x.com/iflux-jr">🐦 X</a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-When I’m not coding, I’m deep in **FPS games** like **CODM and Delta Force**, practicing strategy, reflexes, and teamwork 🎮🔥  
-
----
-
-## 🎨 Extra Animations & Badges
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Code.+Build.+Learn.;Projects+Over+Theory;Fun+With+JS&center=true&width=500&height=40" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-JavaScript-brightgreen?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Intermediate-blue?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code it. Experiment it. Learn it. Repeat."</i>
-</p>
+> _"Building clean, impactful web experiences, one line of code at a time."_
