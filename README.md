@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Emmanuel</h1>
+<h1 align="center">Hey 👋, I'm Emmanuel Jr.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&center=true&vCenter=true&lines=Web+Developer;JavaScript+Learner;Building+Clean+User+Experiences;Always+Improving..." />
