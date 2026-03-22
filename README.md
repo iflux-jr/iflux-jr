@@ -1,31 +1,47 @@
-# 👋 Hi, I’m Flux
+<h1 align="left">👋 Hi, I’m Flux</h1>
+<p align="left"><strong>Web Development Student @ BYU–Pathway Worldwide</strong></p>
 
-**Web Development Student @ BYU–Pathway Worldwide**
+<br>
 
----
+<h3>👀 Interests</h3>
 
-### 👀 Interests
-- Building **clean, responsive, and accessible web experiences**  
-- JavaScript, ES6+, HTML5, CSS3, and **modern frontend workflows**  
+- Building <strong>clean, responsive, and accessible web experiences</strong>  
+- JavaScript, ES6+, HTML5, CSS3, and <strong>modern frontend workflows</strong>  
 - Open-source collaboration and meaningful projects  
-- UI/UX design that feels **intuitive and polished**
+- UI/UX that feels <strong>intuitive and polished</strong>  
 
-### 🚀 Currently Learning
+<br>
+
+<h3>🚀 Currently Learning</h3>
+
 - Advanced JavaScript concepts & best practices  
 - DOM manipulation, Fetch API, and ES Modules  
-- GitHub collaboration & **real-world responsive design**
+- GitHub collaboration & <strong>real-world responsive design</strong>  
 
-### 💡 Looking to Collaborate On
-- Web tools for **students and learning communities**  
-- Mini projects that **challenge me and expand my skillset**  
-- Open-source projects that push the web forward
+<br>
 
-### 📫 Connect With Me
-- X (formerly Twitter): [@YourHandle](https://twitter.com/YourHandle)  
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-link)  
-- Email: your.email@example.com
+<h3>💡 Looking to Collaborate On</h3>
 
-### 🎮 Fun Fact
-I unwind with FPS games like **Call of Duty: Mobile, Delta Force**, and **eFootball**—because even developers need a respawn.
+- Web tools for <strong>students and learning communities</strong>  
+- Mini projects that <strong>challenge me and expand my skillset</strong>  
+- Open-source projects that push the web forward  
 
-> _"Building clean, impactful web experiences, one line of code at a time."_
+<br>
+
+<h3>📫 Connect With Me</h3>
+
+- X (formerly Twitter): <a href="https://twitter.com/YourHandle">@YourHandle</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/your-link">Your Name</a>  
+- Email: your.email@example.com  
+
+<br>
+
+<h3>🎮 Fun Fact</h3>
+
+<p>
+I unwind with FPS games like <strong>Call of Duty: Mobile</strong>, <strong>Delta Force</strong>, and <strong>eFootball</strong> — because even developers need a respawn.
+</p>
+
+<br>
+
+<p><em>"Building clean, impactful web experiences, one line of code at a time."</em></p>
