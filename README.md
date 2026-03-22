@@ -1,47 +1,59 @@
-<h1 align="left">👋 Hi, I’m Flux</h1>
-<p align="left"><strong>Web Development Student @ BYU–Pathway Worldwide</strong></p>
+<h1 align="center">Hi 👋, I'm Flux</h1>
+<h3 align="center">Web Development Student @ BYU–Pathway Worldwide</h3>
 
-<br>
-
-<h3>👀 Interests</h3>
-
-- Building <strong>clean, responsive, and accessible web experiences</strong>  
-- JavaScript, ES6+, HTML5, CSS3, and <strong>modern frontend workflows</strong>  
-- Open-source collaboration and meaningful projects  
-- UI/UX that feels <strong>intuitive and polished</strong>  
-
-<br>
-
-<h3>🚀 Currently Learning</h3>
-
-- Advanced JavaScript concepts & best practices  
-- DOM manipulation, Fetch API, and ES Modules  
-- GitHub collaboration & <strong>real-world responsive design</strong>  
-
-<br>
-
-<h3>💡 Looking to Collaborate On</h3>
-
-- Web tools for <strong>students and learning communities</strong>  
-- Mini projects that <strong>challenge me and expand my skillset</strong>  
-- Open-source projects that push the web forward  
-
-<br>
-
-<h3>📫 Connect With Me</h3>
-
-- X (formerly Twitter): <a href="https://twitter.com/YourHandle">@YourHandle</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/your-link">Your Name</a>  
-- Email: your.email@example.com  
-
-<br>
-
-<h3>🎮 Fun Fact</h3>
-
-<p>
-I unwind with FPS games like <strong>Call of Duty: Mobile</strong>, <strong>Delta Force</strong>, and <strong>eFootball</strong> — because even developers need a respawn.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<br>
+---
 
-<p><em>"Building clean, impactful web experiences, one line of code at a time."</em></p>
+### 🚀 About Me
+- 💻 I build **modern, responsive, and user-friendly web experiences**  
+- ⚡ I enjoy working with **JavaScript, HTML, CSS, and frontend systems**  
+- 🌍 I’m interested in **open-source and real-world projects**  
+- 🎯 Focused on improving my **problem-solving and development skills daily**
+
+---
+
+### 🧠 Currently Learning
+- 🔹 Advanced JavaScript & clean coding practices  
+- 🔹 DOM, APIs, and asynchronous programming  
+- 🔹 GitHub workflows and collaboration  
+- 🔹 Responsive design without frameworks  
+
+---
+
+### 🤝 Let’s Collaborate
+- 🛠 Student-focused web tools  
+- 📦 Beginner-friendly open-source projects  
+- 🎯 Projects that solve real problems  
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p>
+  <a href="https://twitter.com/YourHandle">🐦 Twitter</a> •
+  <a href="https://linkedin.com/in/your-link">💼 LinkedIn</a> •
+  <a href="mailto:your.email@example.com">📧 Email</a>
+</p>
+
+---
+
+### 🎮 Fun Fact
+I play **Call of Duty: Mobile**, **Delta Force**, and **eFootball** to unwind — because every dev needs a break after debugging 😄
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
