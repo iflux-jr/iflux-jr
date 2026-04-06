@@ -104,19 +104,19 @@ A clean, modern design project showcasing layout precision, responsiveness, and 
 
 </td>
 <td align="center" width="50%">
-
-<a href="https://valentine-master.vercel.app">
-  <img src="https://api.microlink.io/?url=https://valentine-master.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" style="border-radius:8px"/>
+ 
+<a href="https://github.com/iflux-jr/Pingly">
+  <img src="https://api.microlink.io/?url=https://pingly-production-07c0.up.railway.app/health&screenshot=true&meta=false&embed=screenshot.url" width="100%" style="border-radius:8px"/>
 </a>
-
+ 
 <br/><br/>
-
-**Valentine — Interactive Experience**
-
-A fun, interactive Valentine-themed web experience demonstrating creative frontend techniques and user interaction design.
-
-`HTML` `CSS` `JavaScript` `Vercel` &nbsp;·&nbsp; **[View Live →](https://valentine-master.vercel.app)**
-
+ 
+**Pingly — WhatsApp Reminder Bot**
+ 
+A full-featured WhatsApp bot with natural language time parsing, Firebase persistence, and classroom broadcast mode.
+ 
+`Node.js` `Firebase` `Railway` &nbsp;·&nbsp; **[View Repo →](https://github.com/iflux-jr/Pingly)**
+ 
 </td>
 </tr>
 </table>
