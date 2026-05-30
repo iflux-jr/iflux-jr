@@ -90,8 +90,8 @@ Next stop: open-source contributor.
 <tr>
 <td align="center" width="50%">
 
-<a href="https://hedesigns.netlify.app/portfolio/">
-  <img src="https://api.microlink.io/?url=https://hedesigns.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" style="border-radius:8px"/>
+<a href="https://emmanueluko.netlify.app/portfolio/">
+  <img src="https://api.microlink.io/?url=https://emmanueluko.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" style="border-radius:8px"/>
 </a>
 
 <br/><br/>
@@ -100,7 +100,7 @@ Next stop: open-source contributor.
 
 A clean, modern design project showcasing layout precision, responsiveness, and visual structure — built entirely with HTML & CSS.
 
-`HTML` `CSS` `Netlify` &nbsp;·&nbsp; **[View Live →](https://hedesigns.netlify.app/portfolio/)**
+`HTML` `CSS` `Netlify` &nbsp;·&nbsp; **[View Live →](https://emmanueluko.netlify.app/portfolio/)**
 
 </td>
 <td align="center" width="50%">
