@@ -20,8 +20,11 @@ Right now I'm going deep on JavaScript: async/await, DOM manipulation, REST APIs
 
 ## Projects
 
-**[Registra](https://github.com/iflux-jr/registra-releases)**: a school management system for Nigerian nursery, primary and secondary schools. It runs on the school's own server and works offline, handling admissions, scores, report cards, fees and SMS to parents, then syncs results to the school's public website.
+**[Registra](https://registra.pages.dev/)**: a school management system for Nigerian nursery, primary and secondary schools. It runs on the school's own server and works offline, handling admissions, scores, report cards, fees and SMS to parents, then syncs results to the school's public website.
 `Laravel` `Livewire` `Tailwind CSS` `MySQL`
+
+**[Kingsley Ion Photography](https://kingsleyion.pages.dev/)**: a client portfolio site for a Calabar photographer and filmmaker, with full-screen galleries, smooth page-to-page motion, a booking enquiry form and an editor he uses to publish his own photos.
+`Astro` `GSAP` `Pages CMS` `Cloudflare Pages`
 
 **[Portfolio site](https://emmanueluko.pages.dev)**: my design portfolio of brand, web, app and motion work, built as a fast static site with responsive images and case-study pages.
 `Astro` `TypeScript` `CSS` `Cloudflare Pages`
